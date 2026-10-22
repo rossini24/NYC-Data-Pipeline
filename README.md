@@ -5,7 +5,7 @@ End-to-end Python pipeline integrating **New York Citi Bike trips**, **historica
 > Course project – *Data Management*, Master's Degree in Data Science, Università degli Studi di Milano-Bicocca
 > Team: Beatrice Bigoni, Clelia Meloni, Luca Rossini
 
-📄 **Full report:** [Project_Report_NYC_Mobility_Data_Pipeline.pdf](Project_Report_NYC_Mobility_Data_Pipeline.pdf)
+📄 **Full report:** [Project_Report_NYC_Mobility_Data_Pipeline.pdf](Project_Report__NYC_Mobility_Data_Pipeline.pdf)
 💻 **Code:** [NYC_Mobility_Data_Pipeline.ipynb](NYC_Mobility_Data_Pipeline.ipynb)
 
 ---
